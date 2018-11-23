@@ -1,0 +1,17 @@
+#this is ignore file
+*.o
+*.a
+*.out
+*.exe
+*.dll
+*.obj
+*.res
+*.pdb
+*.swp
+*.s
+html/
+latex/
+build/
+CMakeFiles/
+CMakeCache.txt
+*.VC.db*

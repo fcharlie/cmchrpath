@@ -1,0 +1,3 @@
+# cmchrpath
+
+Thanks cmake' sources.
