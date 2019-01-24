@@ -47,3 +47,4 @@ endif()
 
 
 add_subdirectory(tools/cmchrpath)
+add_subdirectory(tools/elfinfo)
